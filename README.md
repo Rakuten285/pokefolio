@@ -35,7 +35,7 @@ A GIF of the completed application can be seen here:
 Please sign here to indicate that you have read and understand all of the above:
 
 ```
-[your_name_here]
+Mingze Du
 ```
 
 ## Task Zero - Building and Understanding

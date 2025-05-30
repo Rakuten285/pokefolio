@@ -1,24 +1,49 @@
-import axios from "axios";
-import { useEffect, useState } from "react";
-
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
+import { useState, useEffect } from 'react'
+import axios from 'axios'
+import { API_BASE_URL } from '../config'
 
 export function useBox(boxNumber) {
-  const [isPending, setIsPending] = useState(true);
-  const [error, setError] = useState(null);
-  const [box, setBox] = useState(null);
-  const [hasNext, setHasNext] = useState(false);
-  const [hasPrevious, setHasPrevious] = useState(false);
+  const [box, setBox] = useState(null)
+  const [hasNext, setHasNext] = useState(false)
+  const [hasPrevious, setHasPrevious] = useState(false)
+  const [isPending, setIsPending] = useState(true)
+  const [error, setError] = useState(null)
 
-  async function fetchBox() {
-    // TODO Complete this function as per the README instructions
+  const fetchBox = async () => {
+    setIsPending(true)
+    try {
+      const res = await axios.get(`${API_BASE_URL}/api/boxes/${boxNumber}`)
+      setBox(res.data)
+      setHasPrevious(!!res.headers['previous-box'])
+      setHasNext(!!res.headers['next-box'])
+      setError(null)
+    } catch (err) {
+      setBox(null)
+      setHasPrevious(false)
+      setHasNext(false)
+      setError(err)
+    } finally {
+      setIsPending(false)
+    }
   }
 
-  // TODO Use useEffect to fetch the box data when the component mounts or boxNumber changes
+  const swap = async (source, target) => {
+    try {
+      await axios.patch(`${API_BASE_URL}/api/boxes`, { swap: { source, target } })
 
-  async function swap(source, target) {
-    // TODO Complete this function as per the README instructions
+      if (source.boxNumber === boxNumber || target.boxNumber === boxNumber) {
+        fetchBox()
+      }
+    } catch (err) {
+      setError(err)
+    }
   }
 
-  return { isPending, error, box, hasNext, hasPrevious, swap };
+  useEffect(() => {
+    fetchBox()
+  }, [boxNumber])
+
+  return { box, hasNext, hasPrevious, isPending, error, swap }
 }
+
+export default useBox

@@ -1,0 +1,295 @@
+[{
+  "_id": {
+    "$oid": "6837c163cb3452bafa64984a"
+  },
+  "boxNumber": 1,
+  "pokemon": [
+    {
+      "$oid": "6837c166cb3452bafa64985a"
+    },
+    null,
+    {
+      "$oid": "6837c166cb3452bafa649858"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c164cb3452bafa649854"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c166cb3452bafa649856"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c166cb3452bafa64985c"
+    },
+    {
+      "$oid": "6837c167cb3452bafa64985e"
+    },
+    {
+      "$oid": "6837c167cb3452bafa649860"
+    },
+    {
+      "$oid": "6837c168cb3452bafa649862"
+    },
+    {
+      "$oid": "6837c168cb3452bafa649864"
+    },
+    null,
+    {
+      "$oid": "6837c168cb3452bafa649866"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c169cb3452bafa649868"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c163cb3452bafa64984c"
+  },
+  "boxNumber": 2,
+  "pokemon": [
+    {
+      "$oid": "6837c16acb3452bafa64986b"
+    },
+    null,
+    null,
+    {
+      "$oid": "6837c16bcb3452bafa64986d"
+    },
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c16ccb3452bafa64986f"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c16ccb3452bafa649871"
+    },
+    {
+      "$oid": "6837c16dcb3452bafa649873"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c16dcb3452bafa649875"
+    },
+    null,
+    null,
+    {
+      "$oid": "6837c16dcb3452bafa649877"
+    },
+    {
+      "$oid": "6837c16dcb3452bafa649879"
+    },
+    null,
+    null,
+    {
+      "$oid": "6837c170cb3452bafa64987b"
+    },
+    null,
+    {
+      "$oid": "6837c171cb3452bafa64987d"
+    },
+    null,
+    {
+      "$oid": "6837c171cb3452bafa64987f"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c163cb3452bafa64984e"
+  },
+  "boxNumber": 3,
+  "pokemon": [
+    {
+      "$oid": "6837c171cb3452bafa649882"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c171cb3452bafa649884"
+    },
+    {
+      "$oid": "6837c172cb3452bafa649886"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c172cb3452bafa649888"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c173cb3452bafa64988a"
+    },
+    null,
+    {
+      "$oid": "6837c174cb3452bafa64988c"
+    },
+    null,
+    {
+      "$oid": "6837c174cb3452bafa64988e"
+    },
+    {
+      "$oid": "6837c174cb3452bafa649890"
+    },
+    {
+      "$oid": "6837c175cb3452bafa649892"
+    },
+    null,
+    null
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c163cb3452bafa649850"
+  },
+  "boxNumber": 4,
+  "pokemon": [
+    {
+      "$oid": "6837c175cb3452bafa649895"
+    },
+    null,
+    {
+      "$oid": "6837c175cb3452bafa649897"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c176cb3452bafa649899"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c176cb3452bafa64989b"
+    },
+    {
+      "$oid": "6837c176cb3452bafa64989d"
+    },
+    {
+      "$oid": "6837c177cb3452bafa64989f"
+    },
+    {
+      "$oid": "6837c178cb3452bafa6498a1"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c178cb3452bafa6498a3"
+    },
+    null
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c163cb3452bafa649852"
+  },
+  "boxNumber": 5,
+  "pokemon": [
+    null,
+    {
+      "$oid": "6837c178cb3452bafa6498a6"
+    },
+    {
+      "$oid": "6837c179cb3452bafa6498a8"
+    },
+    null,
+    {
+      "$oid": "6837c179cb3452bafa6498aa"
+    },
+    null,
+    null,
+    {
+      "$oid": "6837c17bcb3452bafa6498ac"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c17ccb3452bafa6498ae"
+    },
+    {
+      "$oid": "6837c17ccb3452bafa6498b0"
+    },
+    {
+      "$oid": "6837c17dcb3452bafa6498b2"
+    },
+    {
+      "$oid": "6837c17ecb3452bafa6498b4"
+    },
+    null,
+    null,
+    {
+      "$oid": "6837c17ecb3452bafa6498b6"
+    },
+    null,
+    null,
+    null,
+    {
+      "$oid": "6837c17ecb3452bafa6498b8"
+    },
+    null,
+    null,
+    {
+      "$oid": "6837c17ecb3452bafa6498ba"
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "__v": 0
+}]

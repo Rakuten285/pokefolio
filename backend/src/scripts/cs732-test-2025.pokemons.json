@@ -1,0 +1,550 @@
+[{
+  "_id": {
+    "$oid": "6837c164cb3452bafa649854"
+  },
+  "dexNum": 629,
+  "name": "Vullaby",
+  "isShiny": true,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/629.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/629.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c166cb3452bafa649856"
+  },
+  "dexNum": 371,
+  "name": "Bagon",
+  "isShiny": true,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/371.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/371.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c166cb3452bafa649858"
+  },
+  "dexNum": 80,
+  "name": "Slowbro",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/80.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/80.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c166cb3452bafa64985a"
+  },
+  "dexNum": 127,
+  "name": "Pinsir",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/127.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/127.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c166cb3452bafa64985c"
+  },
+  "dexNum": 508,
+  "name": "Stoutland",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/508.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/508.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c167cb3452bafa64985e"
+  },
+  "dexNum": 515,
+  "name": "Panpour",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/515.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/515.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c167cb3452bafa649860"
+  },
+  "dexNum": 155,
+  "name": "Cyndaquil",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/155.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/155.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c168cb3452bafa649862"
+  },
+  "dexNum": 897,
+  "name": "Spectrier",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/897.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/897.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c168cb3452bafa649864"
+  },
+  "dexNum": 588,
+  "name": "Karrablast",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/588.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/588.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c168cb3452bafa649866"
+  },
+  "dexNum": 887,
+  "name": "Dragapult",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/887.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/887.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c169cb3452bafa649868"
+  },
+  "dexNum": 327,
+  "name": "Spinda",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/327.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/327.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c16acb3452bafa64986b"
+  },
+  "dexNum": 510,
+  "name": "Liepard",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/510.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/510.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c16bcb3452bafa64986d"
+  },
+  "dexNum": 124,
+  "name": "Jynx",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/124.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/124.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c16ccb3452bafa64986f"
+  },
+  "dexNum": 89,
+  "name": "Muk",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/89.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/89.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c16ccb3452bafa649871"
+  },
+  "dexNum": 25,
+  "name": "Pikachu",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/25.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c16dcb3452bafa649873"
+  },
+  "dexNum": 285,
+  "name": "Shroomish",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/285.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/285.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c16dcb3452bafa649875"
+  },
+  "dexNum": 49,
+  "name": "Venomoth",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/49.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/49.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c16dcb3452bafa649877"
+  },
+  "dexNum": 161,
+  "name": "Sentret",
+  "isShiny": true,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/161.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/161.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c16dcb3452bafa649879"
+  },
+  "dexNum": 701,
+  "name": "Hawlucha",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/701.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/701.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c170cb3452bafa64987b"
+  },
+  "dexNum": 90,
+  "name": "Shellder",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/90.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/90.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c171cb3452bafa64987d"
+  },
+  "dexNum": 783,
+  "name": "Hakamo-o",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/783.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/783.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c171cb3452bafa64987f"
+  },
+  "dexNum": 539,
+  "name": "Sawk",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/539.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/539.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c171cb3452bafa649882"
+  },
+  "dexNum": 191,
+  "name": "Sunkern",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/191.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/191.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c171cb3452bafa649884"
+  },
+  "dexNum": 220,
+  "name": "Swinub",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/220.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/220.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c172cb3452bafa649886"
+  },
+  "dexNum": 401,
+  "name": "Kricketot",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/401.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/401.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c172cb3452bafa649888"
+  },
+  "dexNum": 885,
+  "name": "Dreepy",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/885.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/885.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c173cb3452bafa64988a"
+  },
+  "dexNum": 116,
+  "name": "Horsea",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/116.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/116.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c174cb3452bafa64988c"
+  },
+  "dexNum": 391,
+  "name": "Monferno",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/391.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/391.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c174cb3452bafa64988e"
+  },
+  "dexNum": 340,
+  "name": "Whiscash",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/340.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/340.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c174cb3452bafa649890"
+  },
+  "dexNum": 49,
+  "name": "Venomoth",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/49.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/49.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c175cb3452bafa649892"
+  },
+  "dexNum": 380,
+  "name": "Latias",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/380.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/380.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c175cb3452bafa649895"
+  },
+  "dexNum": 52,
+  "name": "Meowth",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/52.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/52.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c175cb3452bafa649897"
+  },
+  "dexNum": 395,
+  "name": "Empoleon",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/395.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/395.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c176cb3452bafa649899"
+  },
+  "dexNum": 157,
+  "name": "Typhlosion",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/157.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/157.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c176cb3452bafa64989b"
+  },
+  "dexNum": 168,
+  "name": "Ariados",
+  "isShiny": true,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/168.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/168.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c176cb3452bafa64989d"
+  },
+  "dexNum": 18,
+  "name": "Pidgeot",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/18.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/18.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c177cb3452bafa64989f"
+  },
+  "dexNum": 699,
+  "name": "Aurorus",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/699.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/699.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c178cb3452bafa6498a1"
+  },
+  "dexNum": 128,
+  "name": "Tauros",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/128.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/128.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c178cb3452bafa6498a3"
+  },
+  "dexNum": 44,
+  "name": "Gloom",
+  "isShiny": true,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/44.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/44.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c178cb3452bafa6498a6"
+  },
+  "dexNum": 164,
+  "name": "Noctowl",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/164.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/164.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c179cb3452bafa6498a8"
+  },
+  "dexNum": 346,
+  "name": "Cradily",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/346.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/346.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c179cb3452bafa6498aa"
+  },
+  "dexNum": 502,
+  "name": "Dewott",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/502.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/502.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c17bcb3452bafa6498ac"
+  },
+  "dexNum": 84,
+  "name": "Doduo",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/84.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/84.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c17ccb3452bafa6498ae"
+  },
+  "dexNum": 342,
+  "name": "Crawdaunt",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/342.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/342.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c17ccb3452bafa6498b0"
+  },
+  "dexNum": 326,
+  "name": "Grumpig",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/326.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/326.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c17dcb3452bafa6498b2"
+  },
+  "dexNum": 313,
+  "name": "Volbeat",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/313.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/313.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c17ecb3452bafa6498b4"
+  },
+  "dexNum": 716,
+  "name": "Xerneas",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/716.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/716.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c17ecb3452bafa6498b6"
+  },
+  "dexNum": 561,
+  "name": "Sigilyph",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/561.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/561.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c17ecb3452bafa6498b8"
+  },
+  "dexNum": 101,
+  "name": "Electrode",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/101.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/101.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6837c17ecb3452bafa6498ba"
+  },
+  "dexNum": 614,
+  "name": "Beartic",
+  "isShiny": false,
+  "normalImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/614.png",
+  "shinyImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/614.png",
+  "__v": 0
+}]
