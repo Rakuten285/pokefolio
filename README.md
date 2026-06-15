@@ -1,4 +1,4 @@
-# COMPSCI 732 Test, May 2025: A Pokemon Box System
+# A Pokemon Box System
 
 ## Introduction
 
